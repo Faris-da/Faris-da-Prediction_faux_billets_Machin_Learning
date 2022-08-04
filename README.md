@@ -12,4 +12,4 @@ Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'u
 Interpréter une ACP <! 
 Modéliser grâce à la régression logistique <! 
 Réaliser une ACP <! 
-Utiliser un algorithme de clustering de type Kmeans <! 
+Utiliser un algorithme de clustering de type Kmeans 
